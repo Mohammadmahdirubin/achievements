@@ -92,6 +92,18 @@ Current and recent translation projects include works by Russian classical autho
 
 ---
 
+## ✒️ Russian Poetry & Quotations | شعر و سخنان بزرگان روس
+
+### English
+
+Another area of literary interest is the translation of Russian poetry and memorable quotations by great Russian writers, poets, thinkers, and cultural figures into Persian. These translations aim to preserve the literary meaning, tone, imagery, and cultural nuances of the original Russian texts.
+
+### فارسی
+
+یکی دیگر از حوزه‌های علاقه و فعالیت ادبی، ترجمهٔ **اشعار روسی و سخنان و جملات ماندگار بزرگان، نویسندگان، شاعران و اندیشمندان روس** به فارسی است. در این ترجمه‌ها تلاش می‌شود معنا، لحن ادبی، تصاویر و ظرایف فرهنگی متن اصلی روسی حفظ شود.
+
+---
+
 ## 🔬 Research & Academic Work | پژوهش و فعالیت دانشگاهی
 
 ### English
