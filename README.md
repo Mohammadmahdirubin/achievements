@@ -160,9 +160,9 @@ This repository also serves as an organized public record of accepted conference
 
 ## 🌐 Professional & Academic Profiles | پروفایل‌های حرفه‌ای و دانشگاهی
 
-- [ORCID](https://orcid.org/)
+- [ORCID](https://orcid.org/0009-0004-8475-2804)
 - [LinkedIn](https://www.linkedin.com/)
-- [ResearchGate](https://www.researchgate.net/)
+- [ResearchGate](https://www.researchgate.net/profile/Mohammadmahdi-Rubin)
 - [GitHub](https://github.com/Mohammadmahdirubin)
 
 ---
