@@ -163,6 +163,7 @@ This repository also serves as an organized public record of accepted conference
 - [ORCID](https://orcid.org/0009-0004-8475-2804)
 - [LinkedIn](https://www.linkedin.com/)
 - [ResearchGate](https://www.researchgate.net/profile/Mohammadmahdi-Rubin)
+- [Instagram](https://www.instagram.com/mohammadmahdirubin)
 - [GitHub](https://github.com/Mohammadmahdirubin)
 
 ---
